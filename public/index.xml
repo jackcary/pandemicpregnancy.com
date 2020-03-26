@@ -6,9 +6,28 @@
     <description>Recent content on Pandemic Pregnancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 21 Mar 2020 10:09:20 -0400</lastBuildDate>
     
 	<atom:link href="https://pandemicpregnancy.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact</title>
+      <link>https://pandemicpregnancy.com/contact/</link>
+      <pubDate>Sat, 21 Mar 2020 10:09:40 -0400</pubDate>
+      
+      <guid>https://pandemicpregnancy.com/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://pandemicpregnancy.com/about/</link>
+      <pubDate>Sat, 21 Mar 2020 10:09:32 -0400</pubDate>
+      
+      <guid>https://pandemicpregnancy.com/about/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
