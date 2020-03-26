@@ -1,3 +1,46 @@
 baseURL = "https://pandemicpregnancy.com/"
 languageCode = "en-us"
 title = "Pandemic Pregnancy"
+
+enableRobotsTXT = true
+googleAnalytics = "UA-105680531-6"
+metaDataFormat = "toml"
+
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = false
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = false
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
+
+[params]
+  subtitle = ""
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  title = "About"
+  url = "/about/"
+  weight = 100
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  title = "Contact"
+  url = "/contact/"
+  weight = 200
