@@ -1,0 +1,25 @@
+{{ define "main" }}
+<main aria-role="main">
+  <header class="homepage-header">
+    <h1>{{.Title}}</h1>
+    {{ with .Params.subtitle }}
+    <span class="subtitle">{{.}}
+    </span>
+    {{ end }}
+  </header>
+  <div>
+    <div class="homepage-content">
+
+      <h1 class="display-4">Pandemic Pregnancy</h1>
+      <p class="lead">Resetting expectations in the time of
+        COVID-19.</p>
+
+      <p><small><b>Medical disclaimer</b>: This website is for informational purposes only and may not be construed as medical
+        advice. Always seek the advice of your physician or other qualified health providers with any questions you may
+        have regarding a medical condition.</small></small></p>
+
+      {{.Content}}
+    </div>
+  </div>
+</main>
+{{ end }}

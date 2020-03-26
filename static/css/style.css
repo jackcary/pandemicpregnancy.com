@@ -1,0 +1,18 @@
+html {
+    font-size: 1.15em;
+    height:100%;
+    margin:0;
+  }
+  
+  body{
+    height:100%;
+    margin:0;
+  }
+  
+  .text-underline {
+    text-decoration: underline;
+  }
+
+  img {
+      opacity: 0.25;
+  }
