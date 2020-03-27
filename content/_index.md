@@ -5,8 +5,6 @@ draft: false
 lastmod: "2020-03-26"
 ---
 
-Updated March 26th, 2020
-
 ### Does being pregnant put me at a higher risk for severe illness?
 
 ### Can the virus be passed to my baby in the womb?

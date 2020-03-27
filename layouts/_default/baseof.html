@@ -14,13 +14,16 @@
 <body>
   <section class="container-fluid p-0">
     <div class="row sticky-top no-gutters align-middle border-bottom border-4">
-      <div class="col-sm-12 bg-white">
+      <div class="col-2" style="background-color: #563d7c;"></div>
+      <div class="col-sm-8 bg-white">
         {{ partial "header.html" . }}
       </div>
+      <div class="col-2" style="background-color: #563d7c;"></div>
+
     </div>
     <div class="row align-middle no-gutters border-bottom border-2">
       <div class="col-2 bg-light"></div>
-      <div class="col-sm-8 bg-white">
+      <div class="col-sm-8 bg-white mx-3 my-5">
         {{ block "main" . }}{{ end }}
       </div>
       <div class="col-2 bg-light"></div>
