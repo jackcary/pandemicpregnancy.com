@@ -6,6 +6,8 @@ enableRobotsTXT = true
 googleAnalytics = "UA-105680531-6"
 metaDataFormat = "toml"
 
+enableGitInfo = true
+
 [privacy]
   [privacy.disqus]
     disable = false
