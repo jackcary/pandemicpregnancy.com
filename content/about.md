@@ -23,8 +23,10 @@ This website does not provide medical advice. The information, including but not
 <p class="mb-5"></p>
 
 ### Website Development
-This website was developed with the open-source static site generator Hugo. It’s continuously built, deployed, and hosted via Netlify. SSL/TLS certificates are provided by Let's Encrypt. Responsive layout and front-end components are brought to you by Bootstrap. Icons are provided by Font Awesome. It was hacked together on a MacBook Pro using the Atom text editor.
+This website was developed with the open-source static site generator [Hugo](https://gohugo.io/). It’s continuously built, deployed, and hosted via [Netlify](https://www.netlify.com/). SSL/TLS certificates are provided by [Let's Encrypt](https://letsencrypt.org/). Responsive layout and front-end components are brought to you by [Bootstrap](https://getbootstrap.com/). Icons are provided by [Font Awesome](https://fontawesome.com/). It was hacked together on a [MacBook Pro](https://www.apple.com/macbook-pro/) using the [Atom](https://atom.io/) text editor.
 
-Source code for this website can be found on GitHub.
+Source code for this website can be found on [GitHub](https://github.com/jackcary/pandemicpregnancy.com).
+
+**Jack Cary Software Consultant LLC** is a registered and insured Vermont Domestic Limited Liability Company. NAICS sector: 54-Professional, Scientific, and Technical Services. NAICS code: 541512-Computer Systems Design Services.
 
 <p class="mb-5"></p>
