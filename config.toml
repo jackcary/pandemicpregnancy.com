@@ -7,7 +7,7 @@ googleAnalytics = "UA-105680531-6"
 metaDataFormat = "toml"
 
 enableGitInfo = true
-disableKinds = [“taxonomy”, “taxonomyTerm”]
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [privacy]
   [privacy.disqus]
