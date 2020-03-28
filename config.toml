@@ -7,6 +7,7 @@ googleAnalytics = "UA-105680531-6"
 metaDataFormat = "toml"
 
 enableGitInfo = true
+disableKinds = [“taxonomy”, “taxonomyTerm”]
 
 [privacy]
   [privacy.disqus]
@@ -32,7 +33,6 @@ enableGitInfo = true
 
 [params]
   subtitle = ""
-
 
 [[menu.main]]
   identifier = "resources"
