@@ -2,7 +2,6 @@
 title: ""
 date: 2020-03-21T10:09:20-04:00
 draft: false
-lastmod: "2020-03-26"
 ---
 
 ### Does being pregnant put me at a higher risk for severe illness?
