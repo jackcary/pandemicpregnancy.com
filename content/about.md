@@ -11,7 +11,7 @@ We know we are not alone in having a ton of questions concerning the impact of C
 
 I've put this website together to share the questions we've had, and the answers we've received thus far.  The goal of this project is to help pregnant people and their families reset expectations in the time of COVID-19.
 
-If you have a creditable source of information that would contribute to the goal of this project, please send an email to hello@pandemicpregnancy.com.
+If you have a creditable source of information that would contribute to the goal of this project, please send an email to <a class="" href="mailto:hello@pandemicpregnancy.com">hello@pandemicpregnancy.com</a>.
 
 Congratulations on your Pandemic Pregnancy, we are in this together!
 
