@@ -20,7 +20,7 @@ Congratulations on your Pandemic Pregnancy, we are in this together!
 This website does not provide medical advice. The information, including but not limited to, text, graphics, images, and other material contained on this website are for informational purposes only. No content on this site is a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition.
 
 
-### Website
+### Website Development
 This website was developed with the open-source static site generator Hugo. It’s continuously built, deployed, and hosted via Netlify. SSL/TLS certificates are provided by Let's Encrypt. Responsive layout and front-end components are brought to you by Bootstrap. Icons are provided by Font Awesome. It was hacked together on a MacBook Pro using the Atom text editor.
 
 Source code for this website can be found on GitHub.
