@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-### Information from Healthcare Organizations
+### From Healthcare Organizations
 
 <p class="m-3"></p>
 
