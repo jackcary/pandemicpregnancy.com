@@ -1,5 +1,5 @@
 html {
-  font-size: 1em;
+  font-size: 1.15em;
   height:100%;
   margin:0;
 }
@@ -19,4 +19,12 @@ img {
 
 footer {
   position: sticky;
+}
+
+.text-purple {
+  color: #563d7c;
+}
+
+.bg-purple {
+  background-color: #563d7c;
 }

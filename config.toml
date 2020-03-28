@@ -31,16 +31,17 @@ metaDataFormat = "toml"
 [params]
   subtitle = ""
 
+
+[[menu.main]]
+  identifier = "resources"
+  name = "Resources"
+  title = "Resources"
+  url = "/resources/"
+  weight = 100
+
 [[menu.main]]
   identifier = "about"
   name = "About"
   title = "About"
   url = "/about/"
-  weight = 100
-
-[[menu.main]]
-  identifier = "contact"
-  name = "Contact"
-  title = "Contact"
-  url = "/contact/"
   weight = 200

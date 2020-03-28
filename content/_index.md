@@ -6,12 +6,14 @@ lastmod: "2020-03-26"
 ---
 
 ### Does being pregnant put me at a higher risk for severe illness?
+  
+
 
 ### Can the virus be passed to my baby in the womb?
 
-### Should I consider a home birth instead of a hospital birth?
+### Should I consider a home birth instead of hospital birth?
 
-### Can COVID-19 be passed to my baby at the time of delivery?
+### Can the virus be passed to my baby at the time of delivery?
 
 ### Has COVID-19 been detected in breastmilk?
 
