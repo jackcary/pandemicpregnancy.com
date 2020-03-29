@@ -14,7 +14,6 @@ The CDC has recently added pregnant people to their [list of those who are at hi
 
 <p class="m-5"></p>
 
-
 #### Can the virus be transmitted to my baby in utero?
 
 <p class="m-3"></p>
@@ -22,7 +21,6 @@ The CDC has recently added pregnant people to their [list of those who are at hi
 There is not yet substantial evidence of COVID-19 transmission in utero, but a [newborn has tested positive for elevated antibodies to SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2763853) shortly after birth.
 
 <p class="m-5"></p>
-
 
 #### Should I consider a home birth instead of a hospital birth?
 
@@ -32,7 +30,6 @@ The American College of Obstetricians and Gynecologists believes that [hospitals
 
 <p class="m-5"></p>
 
-
 #### Can the virus be passed to my baby after delivery?
 
 <p class="m-3"></p>
@@ -40,7 +37,6 @@ The American College of Obstetricians and Gynecologists believes that [hospitals
 Yes.  The virus can spread to newborns in the same way it spreads in adults--through droplets in the air and on surfaces.
 
 <p class="m-5"></p>
-
 
 #### Has COVID-19 been detected in breastmilk?
 
