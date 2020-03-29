@@ -25,6 +25,8 @@ draft: false
 
 [The COVID Tracking Project](https://covidtracking.com/data/) - Alexis Madrigal; et al
 
+[SARS-CoV-2 Infection in Children](https://www.nejm.org/doi/full/10.1056/NEJMc2005073)
+
 [Antibodies in Infants Born to Mothers With COVID-19 Pneumonia](https://jamanetwork.com/journals/jama/fullarticle/2763854) - Hui Zeng, MD; Chen Xu, BS; Junli Fan, MD; et al
 
 [Possible Vertical Transmission of SARS-CoV-2 From an Infected Mother to Her Newborn](https://jamanetwork.com/journals/jama/fullarticle/2763853) - Lan Dong, MD; Jinhua Tian, MD; Songming He, MD; et al
