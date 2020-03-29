@@ -103,7 +103,7 @@ Unknown. Research and data gathering in progress.
 
 <p class="m-3"></p>
 
-Unknown. Research and data gathering in progress.
+At this time, there is not enough data available to accurately answer this question. Reported deaths in infants who have tested positive with COVID-19 are, to date, rare.  There has been at least [one COVID-19-related infant death in Wuhan, China](https://www.nejm.org/doi/full/10.1056/NEJMc2005073), and one recent COVID-19-related infant death in Illinois, USA.
 
 <p class="m-5"></p>
 
