@@ -63,7 +63,7 @@ Healthcare facilities are rapidly changing their visitor policies to help reduce
 
 <p class="m-3"></p>
 
-Like most group meetings, childbirth prep classes have started moving online through video conferencing software.  For those without internet access or internet speeds capable of streaming video, many video conferencing applications allow you to dial into group calls using your home or mobile phone.  Contact your childbirth class provider to see if this is an option for you.  They may even be able to mail you printed copies of all class materials.
+Like most group meetings, childbirth prep classes have started moving online through video conferencing software.  For those without internet access or internet speeds incapable of streaming video, many video conferencing applications allow you to dial into group calls using your home or mobile phone.  Contact your childbirth class provider to see if this is an option for you.  They may even be able to mail you printed copies of all class materials.
 
 <p class="m-5"></p>
 
