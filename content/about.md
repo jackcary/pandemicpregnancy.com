@@ -34,6 +34,8 @@ This website does not provide medical advice. The information, including but not
 
 This website was developed with the open-source static site generator [Hugo](https://gohugo.io/). It’s continuously built, deployed, and hosted via [Netlify](https://www.netlify.com/). SSL/TLS certificates are provided by [Let's Encrypt](https://letsencrypt.org/). Responsive layout and front-end components are brought to you by [Bootstrap](https://getbootstrap.com/). Icons are provided by [Font Awesome](https://fontawesome.com/). It was hacked together on a [MacBook Pro](https://www.apple.com/macbook-pro/) using the [Atom](https://atom.io/) text editor.
 
+Cover image credit: GagliardiPhotography/Shutterstock
+
 Source code for this website can be found on [GitHub](https://github.com/jackcary/pandemicpregnancy.com).
 
 
