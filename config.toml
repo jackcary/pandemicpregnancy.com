@@ -1,7 +1,6 @@
 baseURL = "https://pandemicpregnancy.com/"
 languageCode = "en-us"
 title = "Pandemic Pregnancy"
-
 enableRobotsTXT = true
 googleAnalytics = "UA-105680531-6"
 metaDataFormat = "toml"
@@ -11,6 +10,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[params]
+  author = "Jack Cary"
+  description = "Resetting expectations in the time of COVID-19"
 
 [privacy]
   [privacy.disqus]
@@ -33,9 +36,6 @@ unsafe = true
   [privacy.youtube]
     disable = false
     privacyEnhanced = false
-
-[params]
-  subtitle = ""
 
 [[menu.main]]
   identifier = "resources"
