@@ -33,11 +33,11 @@ The American College of Obstetricians and Gynecologists believes that [hospitals
 <p class="m-5"></p>
 
 
-#### Can the virus be passed to my baby during or after delivery?
+#### Can the virus be passed to my baby after delivery?
 
 <p class="m-3"></p>
 
-Yes.
+Yes.  The virus can spread to newborns in the same way it spreads in adults--through droplets in the air and on surfaces.
 
 <p class="m-5"></p>
 
@@ -52,7 +52,6 @@ According to one study of COVID-19 infection in nine pregnant women, [amniotic f
 
 <p class="m-5"></p>
 
-
 #### Will my spouse/partner/friend/family be allowed in the delivery room?
 
 <p class="m-3"></p>
@@ -61,9 +60,11 @@ Healthcare facilities are rapidly changing their visitor policies to help reduce
 
 <p class="m-5"></p>
 
-#### Will the hospital have the resources to care for my baby and me?
+#### Will my hospital have the resources to care for my baby and me?
 
 <p class="m-3"></p>
+
+Unknown. Research and data gathering in progress.
 
 <p class="m-5"></p>
 
@@ -72,7 +73,7 @@ Healthcare facilities are rapidly changing their visitor policies to help reduce
 
 <p class="m-3"></p>
 
-Still gathering data.
+Unknown. Research and data gathering in progress.
 
 <p class="m-5"></p>
 
@@ -80,7 +81,7 @@ Still gathering data.
 
 <p class="m-3"></p>
 
-Still gathering data.
+Unknown. Research and data gathering in progress.
 
 <p class="m-5"></p>
 
@@ -89,7 +90,7 @@ Still gathering data.
 
 <p class="m-3"></p>
 
-Still gathering data.
+Unknown. Research and data gathering in progress.
 
 <p class="m-5"></p>
 
@@ -97,7 +98,7 @@ Still gathering data.
 
 <p class="m-3"></p>
 
-Still gathering data.
+Unknown. Research and data gathering in progress.
 
 <p class="m-5"></p>
 
@@ -116,10 +117,12 @@ Still gathering data.
 <p class="m-5"></p>
 
 
-#### Will I be immediately separated or isolated from my baby if I test positive for COVID-19?
+#### Will I be immediately isolated from my baby if I test positive for COVID-19?
 
 <p class="m-3"></p>
 
 Maybe.
+
+Some healthcare facilities have recommended that mothers who have tested positive for COVID-19 be separated from their newborns to avoid transmitting the disease.
 
 <p class="m-3"></p>
