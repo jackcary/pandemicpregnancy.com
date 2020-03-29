@@ -50,11 +50,20 @@ According to one study of COVID-19 infection in nine pregnant women, [amniotic f
 
 <p class="m-5"></p>
 
-#### Will my spouse/partner/friend/family be allowed in the delivery room?
+#### Will my spouse/partner/family be allowed in the delivery room?
 
 <p class="m-3"></p>
 
 Healthcare facilities are rapidly changing their visitor policies to help reduce the spread of COVID-19. Some hospitals and state health departments are [limiting delivery support to one person only](https://coronavirus.health.ny.gov/system/files/documents/2020/03/doh_covid19_obpedsvisitation_032720.pdf); others have even harsher restrictions. If your support person has symptoms or has had recent contact with anyone who has tested positive for COVID-19, it is unlikely they will be allowed in the delivery room with you. Contact your healthcare provider to find out their latest visitor/support policies.
+
+<p class="m-5"></p>
+
+
+####  How will social distancing impact my childbirth classes?
+
+<p class="m-3"></p>
+
+Like most group meetings, childbirth prep classes have started moving online through video conferencing software.  For those without internet access or internet speeds capable of streaming video, many video conferencing applications allow you to dial into group calls using your home or mobile phone.  Contact your childbirth class provider to see if this is an option for you.  They may even be able to mail you printed copies of all class materials.
 
 <p class="m-5"></p>
 
