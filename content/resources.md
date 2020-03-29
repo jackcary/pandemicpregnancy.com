@@ -39,6 +39,8 @@ draft: false
 
 <p class="m-3"></p>
 
+[Health Advisory: COVID-19 Guidance for Hospital Operators regarding Obstetrical and Pediatric Settings](https://coronavirus.health.ny.gov/system/files/documents/2020/03/doh_covid19_obpedsvisitation_032720.pdf) - New York State Department of Health
+
 [Flatten the Curve](https://www.flattenthecurve.com/) - Initially compiled by Julie McMurry, MPH from the University of London School of Hygiene and Tropical Medicine
 
 [Updates and Delivering Alone](https://emilyoster.substack.com/p/updates-and-delivering-alone) - Emily Oster, PhD, Professor of Economics at Brown University
