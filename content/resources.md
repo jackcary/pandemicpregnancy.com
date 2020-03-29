@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-### From Healthcare Organizations
+### Information from Healthcare Organizations
 
 <p class="m-3"></p>
 
@@ -17,7 +17,7 @@ draft: false
 
 <p class="m-5"></p>
 
-### Data, Dashboards, and Research Papers
+### Data, Dashboards, and Research
 
 <p class="m-3"></p>
 
@@ -41,8 +41,8 @@ draft: false
 
 [Flatten the Curve](https://www.flattenthecurve.com/) - Initially compiled by Julie McMurry, MPH from the University of London School of Hygiene and Tropical Medicine
 
-[Updates and Delivering Alone](https://emilyoster.substack.com/p/updates-and-delivering-alone) - Emily Oster, PhD (Professor of Economics at Brown University)
+[Updates and Delivering Alone](https://emilyoster.substack.com/p/updates-and-delivering-alone) - Emily Oster, PhD, Professor of Economics at Brown University
 
-[Birth in the Time of COVID-19](https://emilyoster.substack.com/p/birth-in-the-time-of-covid-19) - Emily Oster, PhD (Professor of Economics at Brown University)
+[Birth in the Time of COVID-19](https://emilyoster.substack.com/p/birth-in-the-time-of-covid-19) - Emily Oster, PhD, Professor of Economics at Brown University
 
 <p class="m-5"></p>

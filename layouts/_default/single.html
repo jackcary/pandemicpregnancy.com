@@ -2,6 +2,20 @@
   {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
-  <h1 class="mb-5 text-purple">{{ .Title }}</h1>
-  {{ .Content }}
+<div class="row no-gutters">
+  <div class="col"></div>
+  <div class="col-sm-8 my-4 px-3">
+    <p class="h1 text-purple">{{ .Title }}</p>
+  </div>
+  <div class="col"></div>
+</div>
+<div class="row no-gutters">
+  <div class="col"></div>
+  <div class="col-sm-8 my-4 px-3">
+    <section class="">
+      {{ .Content }}
+    </section>
+  </div>
+  <div class="col"></div>
+</div>
 {{ end }}

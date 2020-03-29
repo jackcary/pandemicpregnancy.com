@@ -13,32 +13,16 @@
 
 <body>
   <section class="container-fluid p-0">
-    <div class="row sticky-top no-gutters align-middle border-bottom border-4">
-      <div class="col-2 bg-purple"></div>
+    <div class="row sticky-top no-gutters align-middle border-bottom border-2 shadow-sm">
+      <div class="col-2 bg-white"></div>
       <div class="col-sm-8 bg-white">
         {{ partial "header.html" . }}
       </div>
-      <div class="col-2 bg-purple"></div>
-
+      <div class="col-2 bg-white"></div>
     </div>
-    <div class="row align-middle no-gutters">
-      <div class="col-2 bg-light"></div>
-      <div class="col-sm-8 bg-white mx-3 my-5">
-        {{ block "main" . }}{{ end }}
-      </div>
-      <div class="col-2 bg-light"></div>
-
-    </div>
-    <div class="row align-middle no-gutters">
-      <div class="col-2 bg-light"></div>
-      <div class="col-sm-8 bg-light">
-        {{ partial "footer.html" . }}
-      </div>
-      <div class="col-2 bg-light"></div>
-
-    </div>
-
+    {{ block "main" . }}{{ end }}
   </section>
+  {{ partial "footer.html" . }}
 
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
     integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
