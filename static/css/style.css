@@ -13,10 +13,6 @@ body{
   text-decoration: underline;
 }
 
-img {
-    opacity: 0.25;
-}
-
 footer {
   position: sticky;
 }
