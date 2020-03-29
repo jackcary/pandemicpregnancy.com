@@ -132,6 +132,6 @@ Unknown. Research and data gathering in progress.
 
 Possibly.
 
-Some healthcare facilities have recommended that mothers who have tested positive for COVID-19 be separated from their newborns to avoid transmitting the disease.
+SSome healthcare organizations have recommended that pregnant people who have tested positive for COVID-19 be separated from their newborns to avoid transmitting the disease.
 
 <p class="m-3"></p>
