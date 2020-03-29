@@ -8,9 +8,11 @@ draft: false
 
 <p class="m-3"></p>
 
-Maybe. 
+Possibly. 
 
 The CDC has recently added pregnant people to their [list of those who are at higher risk for severe illness](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html), although to date, the limited COVID-19 data is inconclusive.
+
+Pregnant people are at a higher risk for similar respiratory viruses.
 
 <p class="m-5"></p>
 
@@ -119,7 +121,7 @@ Unknown. Research and data gathering in progress.
 
 <p class="m-3"></p>
 
-Maybe.
+Possibly.
 
 Some healthcare facilities have recommended that mothers who have tested positive for COVID-19 be separated from their newborns to avoid transmitting the disease.
 
