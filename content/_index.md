@@ -12,7 +12,7 @@ Possibly.
 
 The CDC has recently added pregnant people to their [list of those who are at higher risk for severe illness](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html), although to date, the limited COVID-19 data is inconclusive.
 
-Pregnant people are at a higher risk of severe illness with similar respiratory viruses.
+Pregnant people are at a higher risk of severe illness with similar respiratory viruses (e.g., SARS and MERS).
 
 <p class="m-5"></p>
 
