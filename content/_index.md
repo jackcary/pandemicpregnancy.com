@@ -56,7 +56,7 @@ According to one study of COVID-19 infection in nine pregnant women, [amniotic f
 
 <p class="m-3"></p>
 
-Healthcare facilities are rapidly changing their visitor policies to help reduce the spread of CODVID-19. Some hospitals are limiting delivery support to one person only; others have even harsher restrictions. If your support person has symptoms or has had recent contact with anyone who has tested positive for COVID-19, it is unlikely they will be allowed in the delivery room with you. Contact your healthcare provider to find out their latest visitor/support policies.
+Healthcare facilities are rapidly changing their visitor policies to help reduce the spread of COVID-19. Some hospitals are limiting delivery support to one person only; others have even harsher restrictions. If your support person has symptoms or has had recent contact with anyone who has tested positive for COVID-19, it is unlikely they will be allowed in the delivery room with you. Contact your healthcare provider to find out their latest visitor/support policies.
 
 <p class="m-5"></p>
 
@@ -67,7 +67,6 @@ Healthcare facilities are rapidly changing their visitor policies to help reduce
 Unknown. Research and data gathering in progress.
 
 <p class="m-5"></p>
-
 
 #### How many pregnant people have tested positive?
 
@@ -84,7 +83,6 @@ Unknown. Research and data gathering in progress.
 Unknown. Research and data gathering in progress.
 
 <p class="m-5"></p>
-
 
 #### How many newborns have tested positive?
 
@@ -107,12 +105,16 @@ Unknown. Research and data gathering in progress.
 
 <p class="m-3"></p>
 
+Unknown. Research and data gathering in progress.
+
 <p class="m-5"></p>
 
 
 #### Will I have to have to get a C-section if I test positive for COVID-19?
 
 <p class="m-3"></p>
+
+Unknown. Research and data gathering in progress.
 
 <p class="m-5"></p>
 
