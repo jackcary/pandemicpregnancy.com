@@ -14,7 +14,7 @@ We know we are not alone in having a ton of questions concerning the impact of C
 
 I've put this website together to gather and share the [questions](/) we've had, and the [information](/resources/) we've found thus far.  The goal of this website is to help pregnant people and their families reset expectations in the time of COVID-19.
 
-If you have a relevant source of information that you would like to contribute, please send it via email to <a class="" href="mailto:hello@pandemicpregnancy.com"><i class="fas fa-envelope"></i>&nbsp;hello@pandemicpregnancy.com</a>.
+If you have a relevant source of information that you would like to contribute, please send it via email to <a class="" href="mailto:hello@pandemicpregnancy.com">hello@pandemicpregnancy.com</a>.
 
 Congratulations on your Pandemic Pregnancy, we are in this together!
 
@@ -32,7 +32,7 @@ This website was developed with the open-source static site generator [Hugo](htt
 
 Cover image credit: GagliardiPhotography/Shutterstock
 
-Source code for this website can be found on [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/jackcary/pandemicpregnancy.com).
+Source code for this website can be found on [GitHub](https://github.com/jackcary/pandemicpregnancy.com).
 
 
 **Jack Cary Software Consultant LLC** is a registered and insured Vermont Domestic Limited Liability Company. NAICS sector: 54-Professional, Scientific, and Technical Services. NAICS code: 541512-Computer Systems Design Services.

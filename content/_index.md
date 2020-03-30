@@ -74,7 +74,7 @@ Not yet. According to one [study](https://www.thelancet.com/journals/lancet/arti
 
 <p class="m-3"></p>
 
-Healthcare facilities are rapidly changing their visitor policies to help reduce the spread of COVID-19. Some hospitals and state health departments are [<i class="fas fa-file-pdf"></i>&nbsp;limiting delivery support](https://coronavirus.health.ny.gov/system/files/documents/2020/03/doh_covid19_obpedsvisitation_032720.pdf) to one person only; others have harsher restrictions. If your support person has symptoms or has had recent contact with anyone who has tested positive for COVID-19, it is unlikely they will be allowed in the delivery room with you. Contact your healthcare provider to find out their latest visitor/support policies.
+Healthcare facilities are rapidly changing their visitor policies to help reduce the spread of COVID-19. Some hospitals and state health departments are [limiting delivery support](https://coronavirus.health.ny.gov/system/files/documents/2020/03/doh_covid19_obpedsvisitation_032720.pdf) to one person only; others have harsher restrictions. If your support person has symptoms or has had recent contact with anyone who has tested positive for COVID-19, it is unlikely they will be allowed in the delivery room with you. Contact your healthcare provider to find out their latest visitor/support policies.
 
 ###  How will social distancing impact my childbirth classes?
 

@@ -15,7 +15,7 @@ draft: false
 
 * [Q&A on COVID-19, pregnancy, childbirth and breastfeeding](https://www.who.int/news-room/q-a-detail/q-a-on-covid-19-pregnancy-childbirth-and-breastfeeding) - World Health Organization (WHO)
 
-* [<i class="fas fa-file-pdf"></i>&nbsp;Occupational health advice for employers and pregnant women during the COVID-19 pandemic](https://www.rcog.org.uk/globalassets/documents/guidelines/2020-03-26-covid19-occupational-health.pdf) - Royal College of Obstetricians and Gynaecologists
+* [Occupational health advice for employers and pregnant women during the COVID-19 pandemic](https://www.rcog.org.uk/globalassets/documents/guidelines/2020-03-26-covid19-occupational-health.pdf) - Royal College of Obstetricians and Gynaecologists
 
 ### Data, Dashboards, and Research
 
@@ -39,7 +39,7 @@ draft: false
 
 <p class="m-3"></p>
 
-* [<i class="fas fa-file-pdf"></i>&nbsp;Health Advisory: COVID-19 Guidance for Hospital Operators regarding Obstetrical and Pediatric Settings](https://coronavirus.health.ny.gov/system/files/documents/2020/03/doh_covid19_obpedsvisitation_032720.pdf) - New York State Department of Health
+* [Health Advisory: COVID-19 Guidance for Hospital Operators regarding Obstetrical and Pediatric Settings](https://coronavirus.health.ny.gov/system/files/documents/2020/03/doh_covid19_obpedsvisitation_032720.pdf) - New York State Department of Health
 
 * [Flatten the Curve](https://www.flattenthecurve.com/) - Initially compiled by Julie McMurry, MPH from the University of London School of Hygiene and Tropical Medicine
 
