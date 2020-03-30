@@ -17,8 +17,6 @@ draft: false
 
 * [<i class="fas fa-file-pdf"></i>&nbsp;Occupational health advice for employers and pregnant women during the COVID-19 pandemic](https://www.rcog.org.uk/globalassets/documents/guidelines/2020-03-26-covid19-occupational-health.pdf) - Royal College of Obstetricians and Gynaecologists
 
-<p class="m-5"></p>
-
 ### Data, Dashboards, and Research
 
 <p class="m-3"></p>
@@ -36,8 +34,6 @@ draft: false
 * [Neonatal Early-Onset Infection With SARS-CoV-2 in 33 Neonates Born to Mothers With COVID-19 in Wuhan, China](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2763787) - Lingkong Zeng, MD; Shiwen Xia, MD; Wenhao Yuan, MD; et al
 
 * [Can SARS-CoV-2 Infection Be Acquired In Utero?](https://jamanetwork.com/journals/jama/fullarticle/2763851) -  David W. Kimberlin, MD; Sergio Stagno, MD 
-
-<p class="m-5"></p>
 
 ### News Articles, Blogs, and More
 

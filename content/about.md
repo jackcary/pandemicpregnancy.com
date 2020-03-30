@@ -18,15 +18,11 @@ If you have a relevant source of information that you would like to contribute, 
 
 Congratulations on your Pandemic Pregnancy, we are in this together!
 
-<p class="mb-5"></p>
-
 ### Medical Disclaimer
 
 <p class="m-3"></p>
 
 This website does not provide medical advice. The information, including but not limited to, text, graphics, images, and other material contained on this website are for informational purposes only. No content on this site is a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition.
-
-<p class="mb-5"></p>
 
 ### Website Development
 
