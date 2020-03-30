@@ -18,7 +18,7 @@ draft: false
 
 [Has COVID-19 been detected in breastmilk?](/#has-covid-19-been-detected-in-breastmilk)
 
-[Will my spouse/partner/family be allowed in the delivery room?](/#will-my-spousepartnerfamily-be-allowed-in-the-delivery-room)
+[Will my spouse/partner/family be allowed in the delivery room?](/#will-my-spouse-partner-family-be-allowed-in-the-delivery-room)
 
 [How will social distancing impact my childbirth classes?](/#how-will-social-distancing-impact-my-childbirth-classes)
 
