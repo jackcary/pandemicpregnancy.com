@@ -92,7 +92,7 @@ Research and data gathering in progress.
 
 ### Will I have to have a C-section if I test positive for COVID-19?
 
-Research and data gathering in progress.
+Research and data gathering in progress. There is currently no clear [evidence](https://www.ncbi.nlm.nih.gov/pubmed/32196655?mod=article_inline) whether cesarean delivery prevents vertical transmission at the time of delivery.
 
 ### Will I be immediately isolated from my baby if I test positive for COVID-19?
 
