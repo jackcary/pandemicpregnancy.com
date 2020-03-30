@@ -27,7 +27,7 @@ draft: false
 
 [Obstetrics in the Time of Coronavirus: A Tertiary Maternity Centre's Preparations and Experience During the COVID-19 Pandemic](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3555225) - Shau Khng Lim; et al Singapore General Hospital - Department of Obstetrics and Gynaecology <small class=" text-nowrap bg-purple text-white p-1 ml-1">Mar 24 2020</small>
 
-[SARS-CoV-2 Infection in Children](https://www.nejm.org/doi/full/10.1056/NEJMc2005073)<small class="text-nowrap bg-purple text-white p-1 ml-1">Mar 18 2020</small>
+[SARS-CoV-2 Infection in Children](https://www.nejm.org/doi/full/10.1056/NEJMc2005073) <small class="text-nowrap bg-purple text-white p-1 ml-1">Mar 18 2020</small>
 
 ### Dashboards, Data, and More
 
