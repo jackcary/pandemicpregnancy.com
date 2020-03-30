@@ -15,6 +15,8 @@ draft: false
 
 * [Q&A on COVID-19, pregnancy, childbirth and breastfeeding](https://www.who.int/news-room/q-a-detail/q-a-on-covid-19-pregnancy-childbirth-and-breastfeeding) - World Health Organization (WHO)
 
+* [<i class="fas fa-file-pdf"></i>&nbsp;Occupational health advice for employers and pregnant women during the COVID-19 pandemic](https://www.rcog.org.uk/globalassets/documents/guidelines/2020-03-26-covid19-occupational-health.pdf) - Royal College of Obstetricians and Gynaecologists
+
 <p class="m-5"></p>
 
 ### Data, Dashboards, and Research
