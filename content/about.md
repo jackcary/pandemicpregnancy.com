@@ -28,11 +28,11 @@ This website does not provide medical advice. The information, including but not
 
 <p class="m-3"></p>
 
-This website was developed with the open-source static site generator [Hugo](https://gohugo.io/). It’s continuously built, deployed, and hosted via [Netlify](https://www.netlify.com/). SSL/TLS certificates are provided by [Let's Encrypt](https://letsencrypt.org/). Responsive layout and front-end components are brought to you by [Bootstrap](https://getbootstrap.com/). Icons are provided by [Font Awesome](https://fontawesome.com/). It was hacked together on a [MacBook Pro](https://www.apple.com/macbook-pro/) using the [Atom](https://atom.io/) text editor.
-
-Cover image credit: GagliardiPhotography/Shutterstock
+This website was developed with the open-source static site generator [Hugo](https://gohugo.io/). It’s continuously built, deployed, and hosted via [Netlify](https://www.netlify.com/). SSL/TLS certificates are provided by [Let's Encrypt](https://letsencrypt.org/). Responsive layout and front-end components are brought to you by [Bootstrap](https://getbootstrap.com/). Favicon provided by [Font Awesome](https://fontawesome.com/). It was hacked together on a [MacBook Pro](https://www.apple.com/macbook-pro/) using the [Atom](https://atom.io/) text editor.
 
 Source code for this website can be found on [GitHub](https://github.com/jackcary/pandemicpregnancy.com).
+
+Uptime monitoring by [UptimeRobot](https://stats.uptimerobot.com/0LpZYF22yY).
 
 
 **Jack Cary Software Consultant LLC** is a registered and insured Vermont Domestic Limited Liability Company. NAICS sector: 54-Professional, Scientific, and Technical Services. NAICS code: 541512-Computer Systems Design Services.
