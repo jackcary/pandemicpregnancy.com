@@ -50,13 +50,13 @@ Pregnant people are at a higher risk of severe illness with similar respiratory 
 
 <p class="m-3"></p>
 
-There is not yet substantial evidence of COVID-19 transmission in utero, but a [newborn has tested positive for elevated antibodies to SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2763853) shortly after birth.
+There is not yet substantial evidence of COVID-19 transmission in utero, but a newborn has tested positive for [elevated antibodies to SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2763853) shortly after birth.
 
 ### Should I consider a home birth instead of a hospital birth?
 
 <p class="m-3"></p>
 
-The American College of Obstetricians and Gynecologists believes that [hospitals and accredited birth centers are the safest settings for birth](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/04/planned-home-birth). Contact your healthcare provider before making any changes to your birth plan.
+The American College of Obstetricians and Gynecologists believes that hospitals and accredited birth centers are the [safest settings for birth](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/04/planned-home-birth). Contact your healthcare provider before making any changes to your birth plan.
 
 ### Can the virus be passed to my baby after delivery?
 
@@ -68,13 +68,13 @@ Yes. The virus can spread to newborns in the same way it spreads in adults--thro
 
 <p class="m-3"></p>
 
-Not yet. According to one study of COVID-19 infection in nine pregnant women, [amniotic fluid, cord blood, neonatal throat swab, and breastmilk samples from six patients were tested for SARS-CoV-2, and all samples tested negative for the virus](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30360-3/fulltext).
+Not yet. According to one [study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30360-3/fulltext) of COVID-19 infection in nine pregnant women, amniotic fluid, cord blood, neonatal throat swab, and breastmilk samples from six patients were tested for SARS-CoV-2, and all samples tested negative for the virus.
 
 ### Will my spouse/partner/family be allowed in the delivery room?
 
 <p class="m-3"></p>
 
-Healthcare facilities are rapidly changing their visitor policies to help reduce the spread of COVID-19. Some hospitals and state health departments are [<i class="fas fa-file-pdf"></i>&nbsp;limiting delivery support to one person only](https://coronavirus.health.ny.gov/system/files/documents/2020/03/doh_covid19_obpedsvisitation_032720.pdf); others have even harsher restrictions. If your support person has symptoms or has had recent contact with anyone who has tested positive for COVID-19, it is unlikely they will be allowed in the delivery room with you. Contact your healthcare provider to find out their latest visitor/support policies.
+Healthcare facilities are rapidly changing their visitor policies to help reduce the spread of COVID-19. Some hospitals and state health departments are [<i class="fas fa-file-pdf"></i>&nbsp;limiting delivery support](https://coronavirus.health.ny.gov/system/files/documents/2020/03/doh_covid19_obpedsvisitation_032720.pdf) to one person only; others have harsher restrictions. If your support person has symptoms or has had recent contact with anyone who has tested positive for COVID-19, it is unlikely they will be allowed in the delivery room with you. Contact your healthcare provider to find out their latest visitor/support policies.
 
 ###  How will social distancing impact my childbirth classes?
 
@@ -110,7 +110,7 @@ Research and data gathering in progress.
 
 <p class="m-3"></p>
 
-At this time, there is not enough data available to accurately answer this question. Reported deaths in infants who have tested positive with COVID-19 are, to date, rare.  There has been at least [one COVID-19-related infant death in Wuhan, China](https://www.nejm.org/doi/full/10.1056/NEJMc2005073), and one recent COVID-19-related infant death in Illinois, USA.
+At this time, there is not enough data available to accurately answer this question. Reported deaths in infants who have tested positive with COVID-19 are, to date, rare.  There has been at least one [COVID-19-related infant death in Wuhan, China](https://www.nejm.org/doi/full/10.1056/NEJMc2005073), and one recent COVID-19-related infant death in Illinois, USA.
 
 ### Will my labor be medically induced if I test positive for COVID-19?
 
