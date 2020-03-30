@@ -56,7 +56,7 @@ There is not yet substantial evidence of COVID-19 transmission in utero, but a n
 
 <p class="m-3"></p>
 
-The American College of Obstetricians and Gynecologists believes that hospitals and accredited birth centers are the [safest settings for birth](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/04/planned-home-birth). Contact your healthcare provider before making any changes to your birth plan.
+The American College of Obstetricians and Gynecologists believes that hospitals and accredited birth centers are the [safest settings for birth](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/04/planned-home-birth). Contact your health care provider before making any changes to your birth plan.
 
 ### Can the virus be passed to my baby after delivery?
 
@@ -74,7 +74,7 @@ Not yet. According to one [study](https://www.thelancet.com/journals/lancet/arti
 
 <p class="m-3"></p>
 
-Healthcare facilities are rapidly changing their visitor policies to help reduce the spread of COVID-19. Some hospitals and state health departments are [limiting delivery support](https://coronavirus.health.ny.gov/system/files/documents/2020/03/doh_covid19_obpedsvisitation_032720.pdf) to one person only; others have harsher restrictions. If your support person has symptoms or has had recent contact with anyone who has tested positive for COVID-19, it is unlikely they will be allowed in the delivery room with you. Contact your healthcare provider to find out their latest visitor/support policies.
+Healthcare facilities are rapidly changing their visitor policies to help reduce the spread of COVID-19. Some hospitals and state health departments are [limiting delivery support](https://coronavirus.health.ny.gov/system/files/documents/2020/03/doh_covid19_obpedsvisitation_032720.pdf) to one person only; others have harsher restrictions. If your support person has symptoms or has had recent contact with anyone who has tested positive for COVID-19, it is unlikely they will be allowed in the delivery room with you. Contact your health care provider to find out their latest visitor/support policies.
 
 ###  How will social distancing impact my childbirth classes?
 
