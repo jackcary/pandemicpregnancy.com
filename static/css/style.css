@@ -14,6 +14,7 @@ body{
 }
 
 h3, h4 {
+  padding-top: 2em;
   color: #563d7c;
   font-weight: normal;
 }
@@ -28,4 +29,26 @@ footer {
 
 .bg-purple {
   background-color: #563d7c;
+}
+
+.btn-purple {
+  color: #ffffff;
+  background-color: #563d7c;
+  border-color: #563d7c;
+}
+
+.btn-purple:hover {
+  color: #ffffff;
+  background-color: #563d7c;
+  border-color: #563d7c;
+}
+
+.btn-outline-purple {
+  color: #563d7c;
+  border-color: #563d7c;
+}
+
+.btn-outline-purple:hover {
+  background-color: #563d7c;
+  color: #ffffff;
 }
