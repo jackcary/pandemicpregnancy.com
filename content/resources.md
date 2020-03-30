@@ -7,8 +7,6 @@ draft: false
 
 ### Information from Healthcare Organizations
 
-<p class="m-3"></p>
-
 * [Pregnancy & Breastfeeding Information about Coronavirus Disease 2019](https://www.cdc.gov/coronavirus/2019-ncov/prepare/pregnancy-breastfeeding.html) - Centers for Disease Control and Prevention (CDC)
 
 * [Coronavirus (COVID-19), Pregnancy, and Breastfeeding: A Message for Patients](https://www.acog.org/patient-resources/faqs/pregnancy/coronavirus-pregnancy-and-breastfeeding) - American College of Obstetricians and Gynecologists (ACOG)
@@ -18,8 +16,6 @@ draft: false
 * [Occupational health advice for employers and pregnant women during the COVID-19 pandemic](https://www.rcog.org.uk/globalassets/documents/guidelines/2020-03-26-covid19-occupational-health.pdf) - Royal College of Obstetricians and Gynaecologists
 
 ### Data, Dashboards, and Research
-
-<p class="m-3"></p>
 
 * [Coronavirus COVID-19 Global Cases](https://coronavirus.jhu.edu/map.html) - Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)
 
@@ -38,8 +34,6 @@ draft: false
 * [Can SARS-CoV-2 Infection Be Acquired In Utero?](https://jamanetwork.com/journals/jama/fullarticle/2763851) -  David W. Kimberlin, MD; Sergio Stagno, MD 
 
 ### News Articles, Blogs, and More
-
-<p class="m-3"></p>
 
 * [Health Advisory: COVID-19 Guidance for Hospital Operators regarding Obstetrical and Pediatric Settings](https://coronavirus.health.ny.gov/system/files/documents/2020/03/doh_covid19_obpedsvisitation_032720.pdf) - New York State Department of Health
 
