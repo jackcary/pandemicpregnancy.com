@@ -24,6 +24,10 @@ footer {
   position: sticky;
 }
 
+.date-flair {
+  background-color:#E8E8E8;
+}
+
 .text-purple {
   color: #563d7c;
 }

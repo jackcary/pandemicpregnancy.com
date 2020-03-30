@@ -17,17 +17,17 @@ draft: false
 
 ### Recent Research
 
-[Antibodies in Infants Born to Mothers With COVID-19 Pneumonia](https://jamanetwork.com/journals/jama/fullarticle/2763854) - Hui Zeng, MD; Chen Xu, BS; Junli Fan, MD; et al <small class=" text-nowrap bg-purple text-white p-1 ml-1">Mar 26 2020</small>
+[Antibodies in Infants Born to Mothers With COVID-19 Pneumonia](https://jamanetwork.com/journals/jama/fullarticle/2763854) - Hui Zeng, MD; Chen Xu, BS; Junli Fan, MD; et al <small class=" text-nowrap date-flair p-1 ml-1">Mar 26 2020</small>
 
-[Possible Vertical Transmission of SARS-CoV-2 From an Infected Mother to Her Newborn](https://jamanetwork.com/journals/jama/fullarticle/2763853) - Lan Dong, MD; Jinhua Tian, MD; Songming He, MD; et al <small class=" text-nowrap bg-purple text-white p-1 ml-1">Mar 26 2020</small>
+[Possible Vertical Transmission of SARS-CoV-2 From an Infected Mother to Her Newborn](https://jamanetwork.com/journals/jama/fullarticle/2763853) - Lan Dong, MD; Jinhua Tian, MD; Songming He, MD; et al <small class=" text-nowrap date-flair p-1 ml-1">Mar 26 2020</small>
 
-[Neonatal Early-Onset Infection With SARS-CoV-2 in 33 Neonates Born to Mothers With COVID-19 in Wuhan, China](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2763787) - Lingkong Zeng, MD; Shiwen Xia, MD; Wenhao Yuan, MD; et al <small class=" text-nowrap bg-purple text-white p-1 ml-1">Mar 26 2020</small>
+[Neonatal Early-Onset Infection With SARS-CoV-2 in 33 Neonates Born to Mothers With COVID-19 in Wuhan, China](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2763787) - Lingkong Zeng, MD; Shiwen Xia, MD; Wenhao Yuan, MD; et al <small class=" text-nowrap date-flair p-1 ml-1">Mar 26 2020</small>
 
-[Can SARS-CoV-2 Infection Be Acquired In Utero?](https://jamanetwork.com/journals/jama/fullarticle/2763851) -  David W. Kimberlin, MD; Sergio Stagno, MD <small class=" text-nowrap bg-purple text-white p-1 ml-1">Mar 26 2020</small>
+[Can SARS-CoV-2 Infection Be Acquired In Utero?](https://jamanetwork.com/journals/jama/fullarticle/2763851) -  David W. Kimberlin, MD; Sergio Stagno, MD <small class=" text-nowrap date-flair p-1 ml-1">Mar 26 2020</small>
 
-[Obstetrics in the Time of Coronavirus: A Tertiary Maternity Centre's Preparations and Experience During the COVID-19 Pandemic](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3555225) - Shau Khng Lim; et al Singapore General Hospital - Department of Obstetrics and Gynaecology <small class=" text-nowrap bg-purple text-white p-1 ml-1">Mar 24 2020</small>
+[Obstetrics in the Time of Coronavirus: A Tertiary Maternity Centre's Preparations and Experience During the COVID-19 Pandemic](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3555225) - Shau Khng Lim; et al Singapore General Hospital - Department of Obstetrics and Gynaecology <small class=" text-nowrap date-flair p-1 ml-1">Mar 24 2020</small>
 
-[SARS-CoV-2 Infection in Children](https://www.nejm.org/doi/full/10.1056/NEJMc2005073) <small class="text-nowrap bg-purple text-white p-1 ml-1">Mar 18 2020</small>
+[SARS-CoV-2 Infection in Children](https://www.nejm.org/doi/full/10.1056/NEJMc2005073) <small class="text-nowrap date-flair p-1 ml-1">Mar 18 2020</small>
 
 ### Dashboards, Data, and More
 
