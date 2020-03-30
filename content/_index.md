@@ -4,7 +4,7 @@ date: 2020-03-21T10:09:20-04:00
 draft: false
 ---
 
-#### Does being pregnant put me at a higher risk of severe illness?
+### Does being pregnant put me at a higher risk of severe illness?
 
 <p class="m-3"></p>
 
@@ -16,7 +16,7 @@ Pregnant people are at a higher risk of severe illness with similar respiratory 
 
 <p class="m-5"></p>
 
-#### Can the virus be transmitted to my baby in utero?
+### Can the virus be transmitted to my baby in utero?
 
 <p class="m-3"></p>
 
@@ -24,7 +24,7 @@ There is not yet substantial evidence of COVID-19 transmission in utero, but a [
 
 <p class="m-5"></p>
 
-#### Should I consider a home birth instead of a hospital birth?
+### Should I consider a home birth instead of a hospital birth?
 
 <p class="m-3"></p>
 
@@ -32,7 +32,7 @@ The American College of Obstetricians and Gynecologists believes that [hospitals
 
 <p class="m-5"></p>
 
-#### Can the virus be passed to my baby after delivery?
+### Can the virus be passed to my baby after delivery?
 
 <p class="m-3"></p>
 
@@ -40,7 +40,7 @@ Yes.  The virus can spread to newborns in the same way it spreads in adults--thr
 
 <p class="m-5"></p>
 
-#### Has COVID-19 been detected in breastmilk?
+### Has COVID-19 been detected in breastmilk?
 
 <p class="m-3"></p>
 
@@ -50,7 +50,7 @@ According to one study of COVID-19 infection in nine pregnant women, [amniotic f
 
 <p class="m-5"></p>
 
-#### Will my spouse/partner/family be allowed in the delivery room?
+### Will my spouse/partner/family be allowed in the delivery room?
 
 <p class="m-3"></p>
 
@@ -59,7 +59,7 @@ Healthcare facilities are rapidly changing their visitor policies to help reduce
 <p class="m-5"></p>
 
 
-####  How will social distancing impact my childbirth classes?
+###  How will social distancing impact my childbirth classes?
 
 <p class="m-3"></p>
 
@@ -69,7 +69,7 @@ Like most group meetings, childbirth prep classes have started moving online thr
 
 <p class="m-5"></p>
 
-#### Will my hospital have the resources to care for my baby and me?
+### Will my hospital have the resources to care for my baby and me?
 
 <p class="m-3"></p>
 
@@ -77,7 +77,7 @@ Unknown. Research and data gathering in progress.
 
 <p class="m-5"></p>
 
-#### How many pregnant people have tested positive?
+### How many pregnant people have tested positive?
 
 <p class="m-3"></p>
 
@@ -85,7 +85,7 @@ Unknown. Research and data gathering in progress.
 
 <p class="m-5"></p>
 
-#### How many pregnant people have died from COVID-19?
+### How many pregnant people have died from COVID-19?
 
 <p class="m-3"></p>
 
@@ -93,7 +93,7 @@ Unknown. Research and data gathering in progress.
 
 <p class="m-5"></p>
 
-#### How many newborns have tested positive?
+### How many newborns have tested positive?
 
 <p class="m-3"></p>
 
@@ -101,7 +101,7 @@ Unknown. Research and data gathering in progress.
 
 <p class="m-5"></p>
 
-#### How many newborns have died from COVID-19?
+### How many newborns have died from COVID-19?
 
 <p class="m-3"></p>
 
@@ -110,7 +110,7 @@ At this time, there is not enough data available to accurately answer this quest
 <p class="m-5"></p>
 
 
-#### Will my labor be medically induced if I test positive for COVID-19?
+### Will my labor be medically induced if I test positive for COVID-19?
 
 <p class="m-3"></p>
 
@@ -119,7 +119,7 @@ Unknown. Research and data gathering in progress.
 <p class="m-5"></p>
 
 
-#### Will I have to have to get a C-section if I test positive for COVID-19?
+### Will I have to have to get a C-section if I test positive for COVID-19?
 
 <p class="m-3"></p>
 
@@ -128,7 +128,7 @@ Unknown. Research and data gathering in progress.
 <p class="m-5"></p>
 
 
-#### Will I be immediately isolated from my baby if I test positive for COVID-19?
+### Will I be immediately isolated from my baby if I test positive for COVID-19?
 
 <p class="m-3"></p>
 
