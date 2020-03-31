@@ -96,6 +96,6 @@ Research and data gathering in progress. There is currently no clear [evidence](
 
 ### Will I be immediately isolated from my baby if I test positive for COVID-19?
 
-Possibly. Some healthcare organizations have recommended that pregnant people who have tested positive for COVID-19 be separated from their newborns to avoid transmitting the disease.
+It will depend on the current COVID-19 policies and protocols at your health care facility.  The World Health Organization (WHO) states that [close contact and early, exclusive breastfeeding helps a baby to thrive](https://www.who.int/news-room/q-a-detail/q-a-on-covid-19-pregnancy-childbirth-and-breastfeeding) and that, with good respiratory hygiene, skin-to-skin contact, and room sharing should be supported.
 
 <p class="m-5"></p>
