@@ -84,7 +84,7 @@ Research and data gathering in progress.
 
 ### How many pregnant people have died from COVID-19?
 
-To date, there have been no reported deaths of pregnant people due to COVID-19. <small class=" text-nowrap date-flair p-1 ">Mar 31 2020</small> 
+To date, there have been no reported deaths of pregnant people due to COVID-19. {{< flair "Mar 31 2020" >}} 
 
 ### How many newborns have tested positive?
 
@@ -92,7 +92,7 @@ Research and data gathering in progress.
 
 ### How many newborns have died from COVID-19?
 
-To date, there have been no reported deaths of newborns due to COVID-19. <small class=" text-nowrap date-flair p-1 ">Mar 31 2020</small>
+To date, there have been no reported deaths of newborns due to COVID-19. {{< flair "Mar 31 2020" >}}
 
 There has been at least one [COVID-19-related infant death in Wuhan, China](https://www.nejm.org/doi/full/10.1056/NEJMc2005073), and one recent COVID-19-related infant death in Illinois, USA.
 
