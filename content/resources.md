@@ -31,6 +31,8 @@ draft: false
 
 ### Dashboards, Data, and More
 
+[COVID-19 Projections](https://covid19.healthdata.org/projections) - The University of Washington, Institute for Health Metrics and Evaluation (IHME)
+
 [Coronavirus COVID-19 Global Cases](https://coronavirus.jhu.edu/map.html) - Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)
 
 [The COVID Tracking Project](https://covidtracking.com/data/) - Alexis Madrigal; et al
