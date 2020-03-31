@@ -25,6 +25,8 @@ draft: false
 
 [Can SARS-CoV-2 Infection Be Acquired In Utero?](https://jamanetwork.com/journals/jama/fullarticle/2763851) -  David W. Kimberlin, MD; Sergio Stagno, MD <small class=" text-nowrap date-flair p-1 ">Mar 26 2020</small>
 
+[Viral Shedding of COVID-19 in Pregnant Women](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3562059)- Wu, Yanting and Liu, Chen and Dong, Lan and Zhang, Chenjie and Chen, Yang and Liu, Jun and Zhang, Chen and Duan, Chenchi and Zhang, Hanqiu and Mol, Ben Willem and Dennis, Cindy-Lee and Yin, Tailang and Yang, Jing and Huang, He-Feng <small class=" text-nowrap date-flair p-1 ">Mar 25 2020</small>
+
 [Obstetrics in the Time of Coronavirus: A Tertiary Maternity Centre's Preparations and Experience During the COVID-19 Pandemic](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3555225) - Shau Khng Lim; et al Singapore General Hospital - Department of Obstetrics and Gynaecology <small class=" text-nowrap date-flair p-1 ">Mar 24 2020</small>
 
 [SARS-CoV-2 Infection in Children](https://www.nejm.org/doi/full/10.1056/NEJMc2005073) <small class="text-nowrap date-flair p-1 ">Mar 18 2020</small>
