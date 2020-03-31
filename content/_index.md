@@ -8,7 +8,7 @@ draft: false
 
 [Does being pregnant put me at a higher risk of severe illness?](/#does-being-pregnant-put-me-at-a-higher-risk-of-severe-illness)
 
-[How can I stay healthy and manage my stress and anxiety?](/#how-can-I-stay-healthy-and-manage-my-stress-and-anxiety)
+[How can I stay healthy and manage my stress and anxiety?](/#how-can-i-stay-healthy-and-manage-my-stress-and-anxiety)
 
 [Can the virus be transmitted to my baby in utero?](/#can-the-virus-be-transmitted-to-my-baby-in-utero)
 
@@ -48,7 +48,7 @@ Pregnant people are at a higher risk of severe illness with similar respiratory 
 
 To prevent the spread of coronavirus, you should wash your hands often, cough into your elbow, refrain from touching your face, keep a safe distance from others, and stay home if you can.
 
-To stay healthy and manage stress, the American College of Obstetricians and Gynecologists (ACOG) [recommends](https://www.acog.org/patient-resources/faqs/pregnancy/coronavirus-pregnancy-and-breastfeeding#how%20can%20I%20stay%20physically%20healthy%20right%20now) eating healthy foods, exercising, getting plenty of sleep, taking breaks from the COVID-19 news and social media, and staying connected with friends and family via phone or online.
+To stay healthy and manage stress, the American College of Obstetricians and Gynecologists (ACOG) [recommends](https://www.acog.org/patient-resources/faqs/pregnancy/coronavirus-pregnancy-and-breastfeeding#how%20can%20I%20stay%20physically%20healthy%20right%20now) eating healthy meals, exercising, getting plenty of sleep, taking breaks from the COVID-19 news and social media, and staying connected with friends and family via phone or online.
 
 ### Can the virus be transmitted to my baby in utero?
 
