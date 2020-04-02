@@ -17,6 +17,8 @@ draft: false
 
 ### Recent Research
 
+[Clinical analysis of pregnant women with 2019 novel coronavirus pneumonia](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.25789) - Siyu Chen, E Liao, Yong Shao {{< flair "Mar 28 2020" >}}
+
 [Antibodies in Infants Born to Mothers With COVID-19 Pneumonia](https://jamanetwork.com/journals/jama/fullarticle/2763854) - Hui Zeng, MD; Chen Xu, BS; Junli Fan, MD; et al {{< flair "Mar 26 2020" >}}
 
 [Possible Vertical Transmission of SARS-CoV-2 From an Infected Mother to Her Newborn](https://jamanetwork.com/journals/jama/fullarticle/2763853) - Lan Dong, MD; Jinhua Tian, MD; Songming He, MD; et al {{< flair "Mar 26 2020" >}}
