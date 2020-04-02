@@ -15,6 +15,8 @@ draft: false
 
 [Occupational health advice for employers and pregnant women during the COVID-19 pandemic](https://www.rcog.org.uk/globalassets/documents/guidelines/2020-03-26-covid19-occupational-health.pdf) - Royal College of Obstetricians and Gynaecologists
 
+[Coronavirus Disease 2019 (COVID-19) Update—Information for Clinicians Caring for Children and Pregnant Women](https://emergency.cdc.gov/coca/calls/2020/callinfo_031220.asp) - Clinician Outreach and Communication Activity (COCA) {{< flair "Mar 12 2020" >}}
+
 ### Recent Research
 
 [Clinical analysis of pregnant women with 2019 novel coronavirus pneumonia](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.25789) - Siyu Chen, E Liao, Yong Shao {{< flair "Mar 28 2020" >}}
