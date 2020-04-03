@@ -50,6 +50,10 @@ To prevent the spread of coronavirus, you should wash your hands often, cough in
 
 To stay healthy and manage stress, the American College of Obstetricians and Gynecologists (ACOG) [recommends](https://www.acog.org/patient-resources/faqs/pregnancy/coronavirus-pregnancy-and-breastfeeding#how%20can%20I%20stay%20physically%20healthy%20right%20now) eating healthy meals, exercising, getting plenty of sleep, taking breaks from the COVID-19 news and social media, and staying connected with friends and family via phone or online.
 
+### How will the pandemic impact the appointments I have scheduled with my health care provider?
+
+Many OB/GYN health care providers have changed their appointment policies and protocols due to COVID-19.  These changes may include reductions in appointment frequency, reductions in the total number of scheduled visits, disallowing your support person in the facility or examination room, replacing in-person checkups with telehealth technologies, and "universal masking" (i.e., all staff and patients are required to wear personal protective equipment at all times).
+
 ### Can the virus be transmitted to my baby in utero?
 
 There is not yet substantial evidence of COVID-19 transmission in utero, but a newborn has tested positive for [elevated antibodies to SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2763853) shortly after birth.
