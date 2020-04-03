@@ -12,6 +12,8 @@ draft: false
 
 [How will the pandemic impact the appointments I have scheduled with my health care provider?](/#how-will-the-pandemic-impact-the-appointments-i-have-scheduled-with-my-health-care-provider)
 
+[Will I be able to visit the maternity ward or birthing center before I deliver?](/#will-i-be-able-to-visit-the-maternity-ward-or-birthing-center-before-i-deliver)
+
 [Can the virus be transmitted to my baby in utero?](/#can-the-virus-be-transmitted-to-my-baby-in-utero)
 
 [Should I consider a home birth instead of a hospital birth?](/#should-i-consider-a-home-birth-instead-of-a-hospital-birth)
@@ -57,6 +59,10 @@ To stay healthy and manage stress, the American College of Obstetricians and Gyn
 ### How will the pandemic impact the appointments I have scheduled with my health care provider?
 
 Many OB/GYN health care providers have changed their appointment policies and protocols due to COVID-19.  These changes may include reductions in appointment frequency, reductions in the total number of scheduled visits, disallowing your support person in the facility or examination room, replacing in-person checkups with telehealth technologies, and "universal masking" (i.e., all staff and patients are required to wear personal protective equipment at all times).
+
+### Will I be able to visit the maternity ward or birthing center before I deliver?
+
+Probably not.  While, under usual circumstances, a pre-delivery visit to your hospital could help reduce anxiety, in the time of COVID-19, many hospitals are no longer allowing visits to the maternity ward.  Check with your health care provider to find out their latest policies.
 
 ### Can the virus be transmitted to my baby in utero?
 
