@@ -88,7 +88,7 @@ It will depend on your health care facility's current policies and protocols.  S
 
 ### Will my hospital have the resources to care for my baby and me?
 
-Research and data gathering in progress.
+To date, there are no public reports of maternity ward staff or NICU staff being pulled from their regular duties to assist other departments in the COVID-19 effort.  There are, however, some facilities that will have reduced staff due to COVID-19 infections among health care workers.  Some hospitals in major cities (e.g., New York City) have been designated as "COVID-only," and all non-COVID patients are now being redirected to other facilities.  Check with your health care provider to find out if your local hospital has changed its policies.
 
 ### How many pregnant people have tested positive?
 
