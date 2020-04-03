@@ -10,6 +10,8 @@ draft: false
 
 [How can I stay healthy and manage my stress and anxiety?](/#how-can-i-stay-healthy-and-manage-my-stress-and-anxiety)
 
+[How will the pandemic impact the appointments I have scheduled with my health care provider?](/#how-will-the-pandemic-impact-the-appointments-i-have-scheduled-with-my-health-care-provider)
+
 [Can the virus be transmitted to my baby in utero?](/#can-the-virus-be-transmitted-to-my-baby-in-utero)
 
 [Should I consider a home birth instead of a hospital birth?](/#should-i-consider-a-home-birth-instead-of-a-hospital-birth)
