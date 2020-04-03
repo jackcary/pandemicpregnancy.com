@@ -24,6 +24,8 @@ draft: false
 
 [How will social distancing impact my childbirth classes?](/#how-will-social-distancing-impact-my-childbirth-classes)
 
+[Will my preferred pediatrician still be able to visit us in the hospital after I give birth?](/#will-my-preferred-pediatrician-still-be-able-to-visit-us-in-the-hospital-after-I-give-birth)
+
 [Will my hospital have the resources to care for my baby and me?](/#will-my-hospital-have-the-resources-to-care-for-my-baby-and-me)
 
 [How many pregnant people have tested positive?](/#how-many-pregnant-people-have-tested-positive)
@@ -79,6 +81,10 @@ Healthcare facilities are rapidly changing their visitor policies to help reduce
 ###  How will social distancing impact my childbirth classes?
 
 Be prepared to go virtual. Like most group meetings, childbirth prep classes have started moving online through video conferencing software.  For those without reliable internet access or with slow internet speeds, many video conferencing applications do allow you to dial into group calls using your home or mobile phone.  Contact your childbirth class provider to see if this is an option for you.  They may even be able to mail you printed copies of all class materials.
+
+### Will my preferred pediatrician still be able to visit us in the hospital after I give birth?
+
+It will depend on your health care facility's current policies and protocols.  Some hospitals are not allowing outside providers to visit patients in the hospital, so your baby's first checkup may be provided by a hospital staff pediatrician.
 
 ### Will my hospital have the resources to care for my baby and me?
 
