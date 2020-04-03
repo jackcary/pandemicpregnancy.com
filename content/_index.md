@@ -62,7 +62,7 @@ Many OB/GYN health care providers have changed their appointment policies and pr
 
 ### Will I be able to visit the maternity ward or birthing center before I deliver?
 
-Probably not.  While, under usual circumstances, a pre-delivery visit to your hospital could help reduce anxiety, in the time of COVID-19, many hospitals are no longer allowing visits to the maternity ward.  Check with your health care provider to find out their latest policies.
+Probably not.  While, under usual circumstances, a pre-delivery visit to your hospital could help reduce anxiety, in the time of COVID-19, many hospitals are no longer allowing visits to their maternity wards.  Check with your health care provider to find out their latest policies.
 
 ### Can the virus be transmitted to my baby in utero?
 
