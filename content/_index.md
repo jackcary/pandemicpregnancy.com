@@ -84,7 +84,7 @@ Research and data gathering in progress.
 
 ### How many pregnant people have died from COVID-19?
 
-To date, there have been no reported deaths of pregnant people due to COVID-19. {{< flair "Mar 31 2020" >}} 
+To date, there have been no reported deaths of pregnant people due to COVID-19. {{< flair "Mar 31 2020" >}}
 
 ### How many newborns have tested positive?
 
@@ -92,9 +92,9 @@ Research and data gathering in progress.
 
 ### How many newborns have died from COVID-19?
 
-To date, there have been no reported deaths of newborns due to COVID-19. {{< flair "Mar 31 2020" >}}
+To date, reports of newborn and infant deaths from COVID-19 are scarce. There has been one [6-week-old newborn death](https://twitter.com/GovNedLamont/status/1245429678875295744) reported in Hartford, Connecticut, that appears to be COVID-19-related. The cause of death and information on comorbidities were not reported. {{< flair "Apr 1 2020" >}}
 
-There has been at least one [COVID-19-related infant death in Wuhan, China](https://www.nejm.org/doi/full/10.1056/NEJMc2005073), and one recent COVID-19-related infant death in Illinois, USA.
+There has also been at least one [COVID-19-related infant death in Wuhan, China](https://www.nejm.org/doi/full/10.1056/NEJMc2005073), and one COVID-19-related infant death in Illinois, USA.
 
 ### Will my labor be medically induced if I test positive for COVID-19?
 
