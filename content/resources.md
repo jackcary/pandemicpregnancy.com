@@ -19,6 +19,8 @@ draft: false
 
 ### Recent Research
 
+[Clinico-Radiological Features and Outcomes in Pregnant Women with COVID-19: Compared with Age-Matched Non-Pregnant Women](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3556647) - Liu, Fang and Liu, Huanhuan and Li, Jinning and Hou, Liang and Lan, Weishun and Wang, Dengbin
+
 [Clinical analysis of pregnant women with 2019 novel coronavirus pneumonia](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.25789) - Siyu Chen, E Liao, Yong Shao {{< flair "Mar 28 2020" >}}
 
 [Antibodies in Infants Born to Mothers With COVID-19 Pneumonia](https://jamanetwork.com/journals/jama/fullarticle/2763854) - Hui Zeng, MD; Chen Xu, BS; Junli Fan, MD; et al {{< flair "Mar 26 2020" >}}
