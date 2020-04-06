@@ -6,7 +6,7 @@ draft: false
 
 ### Hello!
 
-I'm Jack Cary, a software consultant in [Burlington, Vermont](https://en.wikipedia.org/wiki/Burlington,_Vermont).  My wife Chelsea, a doctor of physical therapy (DPT), is currently 33 weeks pregnant!
+I'm Jack Cary, a software consultant in [Burlington, Vermont](https://en.wikipedia.org/wiki/Burlington,_Vermont).  My wife Chelsea, a doctor of physical therapy (DPT), is currently 34 weeks pregnant!
 
 We know we are not alone in having a ton of questions concerning the impact of COVID-19 on pregnant people, or in our frustration with the lack of comprehensive information.
 
