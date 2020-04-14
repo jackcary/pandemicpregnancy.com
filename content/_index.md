@@ -102,7 +102,7 @@ Research and data gathering in progress.
 
 ### How many pregnant people have died from COVID-19?
 
-While there is not yet complete data on deaths in COVID-19-positive pregnant people, to date, it is a very rare occurrence. There has been 1 [reported death of a pregnant person due to COVID-19 in Iran](https://www.sciencedirect.com/science/article/pii/S1477893920301332). {{< flair "Apr 14 2020" >}}
+While there is not yet complete data on deaths in COVID-19-positive pregnant people, to date, it is a very rare occurrence. There has been one [reported death of a pregnant person due to COVID-19 in Iran](https://www.sciencedirect.com/science/article/pii/S1477893920301332). {{< flair "Apr 14 2020" >}}
 
 ### How many newborns have tested positive?
 
